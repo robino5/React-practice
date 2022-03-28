@@ -10,14 +10,7 @@ function App(){
         //   }
         // details = Date.map((item)=> <Card name={item.name} designation={item.designation}  />)
 return <div>
-    {Date.map((item,index)=> <Card key={index} name={item.name} designation={item.designation}  />)}
-    {Date.map((item)=> 
-    <div>
-             <ul>
-                 <li>{item.name}</li>
-             </ul>
-        </div>
-    )}
+    <Card />
 </div>
 }
 
