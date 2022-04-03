@@ -1,5 +1,16 @@
-
-.slider_wraping{
-    height: 350px;
-    width: 100%;
+.Header_search{
+    background: url('../../image/download.jpg');
+    background-size: cover;
 }
+.Header_background{
+    background: rgba(0, 0, 0, 0.45);
+}
+
+.Header_background h3{
+    color: white;
+}
+
+.Header_background p{
+    color: white;
+}
+

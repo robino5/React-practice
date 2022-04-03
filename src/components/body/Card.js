@@ -12,7 +12,7 @@ import Date from"../../data.json"
       <Col md={4}>
       <div class="cards">
          <div class="cards-body">
-         <img src={avater} alt="Logo"/>
+         <img src={item.image} alt="Logo"/>
          <p class="cards-title">{item.name}</p>
          <p class="cards-title">{item.designation}</p>
         <p class="cards-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
