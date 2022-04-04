@@ -10,19 +10,15 @@ return <Container>
   <div class="Header_search">
     <div class="Header_background">
     <h3>Resort</h3>
-    <p>Treat Yourself! Your dream resort</p>
+    <p>Treat yourself! Your dream resort stay is just a few clicks away</p>
     <div class="search-box">
-    <input type="text" name="name" />
-    <input type="text" name="name" />
-    <input type="text" name="name" />
-    <button>Search</button>
+    <input class="heding-manu-place heading-search-border" type="text" name="name" />
+    <input class="heding-manu-date heading-search-border" type="text" name="name" />
+    <input class="heding-manu-user heading-search-border" type="text" name="name" />
+    <button class="heading-search-btn heading-search-border">Search</button>
     </div>
     </div>
-
-  </div>
-
-
-  
+  </div>  
 </Container>
 }
 
