@@ -57,6 +57,8 @@ function Footer(){
 
         </Col>
         </Row>
+        <br/>
+        <br/>
           <div class="sub_footer_wrapper">
           <Row>
           <Col md={6}>
@@ -73,8 +75,6 @@ function Footer(){
           </div>
         </Container>
         </div>
-   
- 
 }
 
 export default Footer;
