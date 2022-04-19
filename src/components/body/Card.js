@@ -21,7 +21,6 @@ import Date from"../../data.json"
 </div>
       </Col>
     )}
-    
     </Row>
     </Container>
     
